@@ -90,7 +90,7 @@ export const TerminalWidget: React.FC<TerminalWidgetProps> = ({ onClose }) => {
           '  Email:      surajcshet5@gmail.com',
           '  Phone:      +91 9611129085',
           '  LinkedIn:   linkedin.com/in/suraj-c',
-          '  GitHub:     github.com/suraj-c',
+          '  GitHub:     github.com/SurajShet7',
           ''
         ];
         break;

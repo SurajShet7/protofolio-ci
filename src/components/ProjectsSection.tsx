@@ -19,7 +19,7 @@ const projects: Project[] = [
     category: 'SUSTAINABLE CLOUD / SCHEDULER',
     description:
       'A sustainable computing strategy that aligns computational tasks with real-time or forecasted carbon intensity data, aiming to minimize greenhouse gas emissions in cloud computing environments. Moves beyond traditional efficiency metrics by scheduling, migrating, or delaying workloads to less carbon-intensive regions or times.',
-    githubUrl: 'https://github.com/suraj-c',
+    githubUrl: 'https://github.com/SurajShet7',
     tech: [
       'AWS',
       'Python',
@@ -41,7 +41,7 @@ const projects: Project[] = [
     category: 'FULL-STACK / HEALTHCARE TECH',
     description:
       'A digital platform designed to facilitate healthcare services, allowing patients to access medical care remotely. Encompasses key features including telemedicine integrations, real-time appointment booking, electronic health records (EHR) management, and remote patient monitoring.',
-    githubUrl: 'https://github.com/suraj-c',
+    githubUrl: 'https://github.com/SurajShet7',
     tech: [
       'HTML',
       'CSS',
